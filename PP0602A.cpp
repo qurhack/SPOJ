@@ -1,7 +1,6 @@
 //https://pl.spoj.com/problems/PP0602A/
 
 #include <iostream>
-#include <string>
 
 using namespace std;
 
