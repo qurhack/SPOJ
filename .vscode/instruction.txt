@@ -2,4 +2,5 @@ To build particular file use ctrl + shift + b while being inside that file.
 
 Executable will be present in C/build or CPP/build (depends on language)
 
-
+To establish wsl-repo connection do as following:
+git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git
