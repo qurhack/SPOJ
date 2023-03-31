@@ -1,0 +1,5 @@
+To build particular file use ctrl + shift + b while being inside that file.
+
+Executable will be present in C/build or CPP/build (depends on language)
+
+
