@@ -29,35 +29,35 @@ int main()
 
 void letterToNumber(char* cLetter)
 {
-    if((65u <= *cLetter) && (67u >= *cLetter))
+    if((65u <= *cLetter) && (67u >= *cLetter)) // ABC
     {
         printf("2");
     }
-    else if((68u <= *cLetter) && (70u >= *cLetter))
+    else if((68u <= *cLetter) && (70u >= *cLetter)) // DEF
     {
         printf("3");
     }
-    else if((71u <= *cLetter) && (73u >= *cLetter))
+    else if((71u <= *cLetter) && (73u >= *cLetter)) // GHI
     {
         printf("4");
     }
-    else if((74u <= *cLetter) && (76u >= *cLetter))
+    else if((74u <= *cLetter) && (76u >= *cLetter)) // JKL
     {
         printf("5");
     }
-    else if((77u <= *cLetter) && (79u >= *cLetter))
+    else if((77u <= *cLetter) && (79u >= *cLetter)) // MNO
     {
         printf("6");
     }
-    else if((80u <= *cLetter) && (83u >= *cLetter))
+    else if((80u <= *cLetter) && (83u >= *cLetter)) // PQRS
     {
         printf("7");
     }
-    else if((84u <= *cLetter) && (86u >= *cLetter))
+    else if((84u <= *cLetter) && (86u >= *cLetter)) // TUV
     {
         printf("8");
     }
-    else if((87u <= *cLetter) && (90u >= *cLetter))
+    else if((87u <= *cLetter) && (90u >= *cLetter)) // WXYZ
     {
         printf("9");
     }
