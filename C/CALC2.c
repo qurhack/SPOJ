@@ -19,7 +19,7 @@ int main()
         }
 
         // This is made purely to avoid interpreting enter after scanf as next value for cOperation
-        if(scanf("%d %d", &iNumA, &iNumB))
+        if(2 == scanf("%d %d", &iNumA, &iNumB)) // scanf should return 2 if both arguments were passed correctly
         {
             getchar();
         }
