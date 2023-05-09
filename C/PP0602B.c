@@ -1,5 +1,4 @@
 // https://pl.spoj.com/problems/PP0602B/
-// At the end - add u to nums etc. (coding guidelines), initialize variables to 0
 
 #include <stdio.h>
 #include <stdint.h>
